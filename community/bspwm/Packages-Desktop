@@ -120,3 +120,6 @@ xorg-xsetroot
 zensu
 zsh-completions
 highlight
+>extra libreoffice-fresh
+>extra google-chrome
+>extra firefox
